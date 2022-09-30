@@ -1,0 +1,64 @@
+/*h1{ 
+         background:rgba(31,79,127,1.00); 
+         text-align:center;
+
+         }
+ 
+header {#63bf7c}**/
+
+h1 { background : /*#63bf7c */ rgba(41,138,127,0.34);
+     font-size:150%;
+
+}
+
+ header { 
+            /*background :rgba(93,67,127,0.34);*/
+           background:rgba(226,218,127,1.00); 
+           text-align:center;
+          }
+
+nav { 
+       font-variant: small-caps;
+       font-size:150%; 
+       font-family:Arial,"Time New Roman",serif;
+       }
+
+ h2 { color:#458ea8;
+      background :rgba(215,208,127,1.00);
+     }
+
+details { 
+
+        font-style : italic ;  
+        }
+
+summary {
+
+         font-style : normal;
+            }
+
+
+footer {     
+     background:rgba(226,218,127,1.00);
+
+        }
+
+.watermelon {  
+       float: right ;
+
+  }
+
+.dumpling { 
+
+  float :right;
+ }
+
+
+.cucumber {
+       float: right;
+
+}
+
+progress {
+ background: rgba(213,235,127,1.00);
+    }
